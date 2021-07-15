@@ -1,0 +1,14 @@
+{
+    "FirstName": "John",
+    "LastName": "Ford",
+    "PhoneNumber": "1-989-867-5309",
+    "Email": "johnFordCars@emaildomain.com",
+    "DOB":"1990-01-10",
+    "DOP": "2019-02-01",
+    "Warranty": {
+        "Start": "2019-02-01",
+        "End":"2024-02-01",
+        "Mileage": "60,000",
+        "Year": "5"
+    }
+}
